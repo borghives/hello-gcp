@@ -1,5 +1,6 @@
 # hello-gcp
-Hello World Intro into GCP Cloud
+Hello World Introduction into GCP Cloud
+First Day excercise
 
 ```
 git clone https://github.com/borghives/hello-gcp
